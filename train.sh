@@ -1,0 +1,1 @@
+python tracking/train.py --script sfcatrack --config rgbt --save_dir ./output --mode multiple --nproc_per_node 4
